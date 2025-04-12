@@ -7,8 +7,6 @@
   - Functional correctness
 - Clearly explain the reason behind each observed effect.
 
----
-
 ## Task 2: XOR Gate Design Using Different Logic Styles
 
 Design a 2-input **XOR (Exclusive-OR)** function using the following technologies:
@@ -24,7 +22,7 @@ For each technology:
 
 ---
 
-## 🧪 Exercise 1: RTL NAND Gate Design and Effect of Pull-Up Resistor
+## 🧪 Task 1: RTL NAND Gate Design and Effect of Pull-Up Resistor
 
 ### 1. RTL NAND Gate Design with Encounter_IC
 
@@ -39,14 +37,12 @@ For each technology:
   - Longer rise times
   - Decreased speed in reaching logic '1' at the output
   
-  ### 3. Explanation of Delay
+### 3. Explanation of Delay
 
 - Increasing resistance leads to a higher RC time constant.
 - Consequently, rise time increases, and output transitions are delayed.
 
----
-
-## ⚙️ Exercise 2: XOR Gate Design in Different Logic Families
+## ⚙️ Task 2: XOR Gate Design in Different Logic Families
 
 The XOR gate was implemented and analyzed using the following logic styles:
 
