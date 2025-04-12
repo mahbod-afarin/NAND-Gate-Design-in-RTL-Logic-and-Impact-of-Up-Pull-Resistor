@@ -1,6 +1,6 @@
 ## Task 1: NAND Gate Design in RTL Logic and Impact of Up-Pull Resistor
 
-- First, using the **Encounter_IC** tool, design a **NAND gate** in RTL logic and verify its functionality.
+- First, using the **IC_Encounter** tool, design a **NAND gate** in RTL logic and verify its functionality.
 - Then, apply necessary changes to examine the impact of an **Up-Pull resistor** on:
   - Output loading
   - Induced delay
