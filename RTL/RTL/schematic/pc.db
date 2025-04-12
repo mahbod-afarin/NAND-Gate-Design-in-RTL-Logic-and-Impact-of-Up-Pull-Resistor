@@ -1,0 +1,22 @@
+#
+analogLib cap symbol
+C0
+#
+analogLib vpulse symbol
+V2
+V3
+#
+analogLib vdc symbol
+V0
+#
+analogLib res symbol
+R2
+R1
+R0
+#
+gpdk180 npn symbol
+Q1
+Q0
+#ISCELL
+basic gnd symbol
+I0

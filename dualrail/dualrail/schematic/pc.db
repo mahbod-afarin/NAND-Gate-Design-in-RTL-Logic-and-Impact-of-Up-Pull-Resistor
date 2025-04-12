@@ -1,0 +1,36 @@
+#
+analogLib cap symbol
+C1
+C0
+#
+analogLib vpulse symbol
+V9
+V4
+V3
+V2
+V1
+#
+gpdk180 pmos symbol
+PM4
+PM3
+PM1
+PM0
+#
+analogLib vdc symbol
+V0
+#
+gpdk180 nmos symbol
+NM11
+NM10
+NM8
+NM7
+NM6
+NM5
+NM4
+NM3
+NM2
+NM1
+NM0
+#ISCELL
+basic gnd symbol
+I0

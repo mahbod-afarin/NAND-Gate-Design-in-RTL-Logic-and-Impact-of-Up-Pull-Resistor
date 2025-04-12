@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      icic
+HostName                       ICICVM.lab.edu
+ProcessIdentifier              7687
+ProcessCreationTime_UTC        1444995200
+ProcessCreationTime_Readable   Fri Oct 16 15:03:20 2015 IRST
+AppIdentifier                  /opt/Cadence/IC5141USR6/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/icic/work/gpdk180_v3.3/dualrail/dualrail/schematic/sch.cdb
+TimeEditLocked                 Fri Oct 16 15:39:44 2015 IRST
