@@ -67,8 +67,6 @@ The XOR gate was implemented and analyzed using the following logic styles:
 - XOR was designed using this technique and verified using simulations.
 - Improved version includes a **keeper transistor** for charge retention.
 
----
-
 ## ✅ Summary
 
 - RTL and transistor-level implementations were carried out successfully using Encounter_IC and custom schematics.
