@@ -53,15 +53,12 @@ The XOR gate was implemented and analyzed using the following logic styles:
 - A **keeper transistor** was added to hold the output level in dynamic operation.
 - Waveform simulation shows correct functionality through precharge and evaluation phases.
 
----
-
 ### 2. DCVSL (Differential Cascode Voltage Switch Logic)
 
 - Consumes no static power.
 - Uses cross-coupled PMOS transistors and complementary NMOS networks.
 - Both output and its complement are generated simultaneously.
 - Simulation confirms correct output and complementary behavior.
----
 
 ### 3. Dual-Rail Domino Logic
 
